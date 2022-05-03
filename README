@@ -1,0 +1,15 @@
+ZERO.js - Returns you nothing but zero
+
+This project supports all versions of JavaScript and Node.js.
+If it does not work, make sure you didn't do something stupid.
+With ZERO.js, you can to "Zero" arithmetics.
+Like so:
+
+    var zero = require('@thevvx/zero'); // Import the module
+    var a = zero(); // Create a new zero
+    var b = zero(); // Create another zero
+    var c = a + b;  // Add them together
+    console.log(c); // Returns 0
+
+That's it! You can do all sorts of things with zeros.
+This project is licensed under the DO WHAT THE FUCK YOU WANT TO PUBLIC license.

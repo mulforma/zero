@@ -1,0 +1,14 @@
+{
+  "name": "@thevvx/zero",
+  "version": "0.0.0",
+  "description": "When god create zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zero"
+  ],
+  "author": "Tinnaphat \"Tin\" Somsang",
+  "license": "Apache-2.0"
+}
